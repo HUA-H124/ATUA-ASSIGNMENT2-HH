@@ -1,6 +1,7 @@
 # ATUA-ASSIGNMENT2-HH
 
-# ATUA Assignment 2 — PM2.5 Prediction Using Graph Neural Networks
+## PM2.5 Prediction Using Graph Neural Networks
+
 ## Overview
 
 This project explores the use of Graph Neural Networks (GNNs) to predict PM2.5 air pollution levels using spatial relationships between monitoring stations. Two models are implemented and compared:
